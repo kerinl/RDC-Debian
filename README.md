@@ -37,4 +37,6 @@
 or<br />
 `ifconfig`
 
-### 11) On you Windows machine, type _rdc_ in start menu, enter your Linux machine IP. A new window will open. Log in with your Linux username and password. 
+### 12) Log out of your Linux machine session
+
+### 13) On you Windows machine, type _rdc_ in start menu, enter your Linux machine IP. A new window will open. Log in with your Linux username and password. 
