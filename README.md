@@ -1,4 +1,4 @@
-# RDC-Debian
+# RDC-Debian (or other Debian based distro - _Ubuntu_, _Pop!_OS, Mint ..._ )
 ## Remote Desktop Connection from a Windows machine to Debian based linux machine.
 
 ### 1) Install xrdp.
