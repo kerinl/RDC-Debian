@@ -5,7 +5,7 @@
 `sudo apt install xrdp -y`
 
 ### 2) Start and enable xrdp.
-`sudo systemctl start xrdp`
+`sudo systemctl start xrdp`<br />
 `sudo systemctl enable xrdp`
 
 ### 3) Check the status of xrdp.
@@ -33,8 +33,8 @@
 `sudo ufw status`
 
 ### 11) Check your Linux machine IP.
-`ip a`
+`ip a`<br />
 or
-`ifconfig`
+`ifconfig`<br />
 
 ### 11) On you Windows machine, type _rdc_ in start menu and login with your Linux username and password. 
